@@ -1,1 +1,1 @@
-py install -U discord.py
+py install discord.py
